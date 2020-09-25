@@ -22,7 +22,9 @@ We also plan to extend the time limit so that we can use it anytime and anywhere
 
 Developer Contact:
 Mail Id: enriosrm@gmail.com
-Mail Id: pragyagupta270401@gmail.com
+
+Link of logo of app: https://drive.google.com/file/d/19SsAYRp-hzOu0vQG3AnIl2Nrl6WWcRaZ/view?usp=drivesdk
+
 
 
 
